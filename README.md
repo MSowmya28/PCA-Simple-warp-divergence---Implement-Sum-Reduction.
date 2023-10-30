@@ -1,4 +1,4 @@
-![pca 3 2](https://github.com/MSowmya28/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/94154791/8f086a7c-4945-44c9-a91b-fbc2ce99a53f)![pca 3 2](https://github.com/MSowmya28/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/94154791/b87e18f3-13b7-49b5-b1d4-368c373a7e25)# PCA-Simple-warp-divergence---Implement-Sum-Reduction.
+# PCA-Simple-warp-divergence---Implement-Sum-Reduction.
 Refer to the kernel reduceUnrolling8 and implement the kernel reduceUnrolling16, in which each thread handles 16 data blocks. Compare kernel performance with reduceUnrolling8 and use the proper metrics and events with nvprof to explain any difference in performance.
 
 ## Aim:
